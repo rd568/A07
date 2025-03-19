@@ -59,7 +59,7 @@ main h1 {
     border-bottom: 3px solid #931420;
 	border-style: double;
 	border-radius: 25px;
-	box-shadow: 2px 2px 2px #800000;
+	box-shadow: 6px 6px 6px #800000;
 }
 main h2 {
 	color: #800000;
