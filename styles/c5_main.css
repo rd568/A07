@@ -58,7 +58,7 @@ main h1 {
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
 	border-style: double;
-	border-radius: 25px;
+	border-radius: 15px;
 	box-shadow: 5px 5px#800000;
 }
 main h2 {
