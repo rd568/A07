@@ -57,6 +57,9 @@ main h1 {
 	padding: .3em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+	border-style: double;
+	border-radius: 25px;
+	text-shadow: 2px 2px 2px #800000;
 }
 main h2 {
 	color: #800000;
